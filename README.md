@@ -14,7 +14,7 @@ Follow the instruction to run the code:
 2. Set `--seed` for random seeds.
 3. '--type' means the variants of the algorithm. `c` for clipping; `a` for adaptive penalty; `f` for fixed penalty; `r` for rollback; `j` for JS
 4. `--beta` for beta; `--dtarg` for $d_{targ}$; '--eps' for epsilon
-5. Let `--exp` to be 1 forever.
+5. Let `--exp` to be `1` forever.
 
 An example
 ``` bash
